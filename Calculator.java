@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-class PenCopCalc {
+class Main {
     
     public static double pennyCalc (double c, double z) {
         double cA = .00651356;
